@@ -29,7 +29,7 @@ latest_posts:
 
 I am a research assistant and an incoming Ph.D. student at the AIVC Lab at UCLA, advised by Prof. Chenfanfu Jiang. Previously, I received my M.S. in Computer Science from Shanghai Jiao Tong University (SJTU), where I was advised by Prof. Cewu Lu, and my B.S. in Information and Computing Science from the School of the Gifted Young at the University of Science and Technology of China (USTC). I also interned at ZenusTech, focusing on physics-based simulation and high-performance computing under the guidance of Xinxin Zhang and Xinlei Wang.
 
-My research interests lie in physics-based simulation, tactile perception, and machine learning for robotics.
+My research interests lie in <b>physics-based simulation, tactile perception, and machine learning for robotics</b>.
 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
